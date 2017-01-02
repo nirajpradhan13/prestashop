@@ -1,5 +1,6 @@
 <?php
-//in the clean_up branch
+//in the base branch
+//base branch
 /*
 * 2007-2016 PrestaShop
 *
